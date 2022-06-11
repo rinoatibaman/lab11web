@@ -24,3 +24,10 @@ Struktur Direktori Untuk lebih memahami Framework Codeigniter 4 perlu mengetahui
 
 -Membuat Route Baru. Tambahkan kode berikut di dalam Routes.php $routes->get('/about', 'Page::about'); $routes->get('/contact', 'Page::contact'); $routes->get('/faqs', 'Page::faqs');
 ![2022-06-12 (9)](https://user-images.githubusercontent.com/101688124/173205279-4a982ef0-0c2a-4d06-adc5-04ee389faae8.png)
+
+# Membuat Controller
+![2022-06-12 (10)](https://user-images.githubusercontent.com/101688124/173205367-f5fac63f-df65-41b5-89e9-1bd770ccb288.png)
+
+Membuat View Selanjutnya adalam membuat view untuk tampilan web agar lebih menarik. Buat file baru dengan nama about.php pada direktori view (app/view/about.php) kemudian isi kodenya seperti berikut.
+![2022-06-12 (11)](https://user-images.githubusercontent.com/101688124/173205737-3aa98d79-0c87-454e-b15d-646b50d53284.png)
+
