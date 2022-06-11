@@ -15,3 +15,12 @@ Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat (xampp/htd
 
 HOME.PHP
 ![2022-06-12 (3)](https://user-images.githubusercontent.com/101688124/173205098-174df3b9-b301-4282-9d03-ac0dae995be4.png)
+
+Struktur Direktori Untuk lebih memahami Framework Codeigniter 4 perlu mengetahui struktur direktori dan file yang ada. Buka pada Windows Explorer atau dari Visual Studio Code -> Open Folder.
+![2022-06-12 (8)](https://user-images.githubusercontent.com/101688124/173205150-b6f36029-3363-4a6d-9bbb-6b2aa816ba6e.png)
+
+- Routes.php
+![2022-06-12 (4)](https://user-images.githubusercontent.com/101688124/173205208-a23548e4-6381-40b5-8a68-2c04a27a4728.png)
+
+-Membuat Route Baru. Tambahkan kode berikut di dalam Routes.php $routes->get('/about', 'Page::about'); $routes->get('/contact', 'Page::contact'); $routes->get('/faqs', 'Page::faqs');
+![2022-06-12 (9)](https://user-images.githubusercontent.com/101688124/173205279-4a982ef0-0c2a-4d06-adc5-04ee389faae8.png)
