@@ -31,3 +31,14 @@ Struktur Direktori Untuk lebih memahami Framework Codeigniter 4 perlu mengetahui
 Membuat View Selanjutnya adalam membuat view untuk tampilan web agar lebih menarik. Buat file baru dengan nama about.php pada direktori view (app/view/about.php) kemudian isi kodenya seperti berikut.
 ![2022-06-12 (11)](https://user-images.githubusercontent.com/101688124/173205737-3aa98d79-0c87-454e-b15d-646b50d53284.png)
 
+
+# Pertemuan 13
+- RINO ELJON ATIBAMAN
+- 312010006
+- PEMOGRAMAN WEB
+
+![image](https://user-images.githubusercontent.com/101688124/174828171-b05c940a-6094-42cd-a8a7-c7978e060c42.png)
+Konfigurasi dapat dilakukan dengan du acara, yaitu pada file app/config/database.php atau menggunakan file .env. Pada praktikum ini kita menggunakan konfigurasi pada file .env.
+![image](https://user-images.githubusercontent.com/101688124/174828564-40fbef19-796a-45e0-962c-e19fc7d0fa5b.png)
+
+
